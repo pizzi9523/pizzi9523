@@ -3,10 +3,6 @@
 
 
 
-![git_hub](https://user-images.githubusercontent.com/84190473/151035547-d7b585dc-c8bf-42dd-b79a-7f7fb0e512d0.jpg)
-
-
-
 <!--
 **pizzi9523/pizzi9523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
