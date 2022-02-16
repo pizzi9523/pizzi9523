@@ -1,6 +1,6 @@
-<h1 align="center"> ### Hi there 👋 </h1>
-### I'm Giuseppe Pizzitola and i'm a Jr Full Stack Web Developer
-
+<h1 align="center"> Hi there 👋 </h1>
+<h2 align="center"> I'm Giuseppe Pizzitola and i'm a Jr Full Stack Web Developer </h2>
+<br>
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
