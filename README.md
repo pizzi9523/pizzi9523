@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center"> ### Hi there 👋 </h1>
 ### I'm Giuseppe Pizzitola and i'm a Jr Full Stack Web Developer
 
 <p align="center"> 
